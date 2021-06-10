@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Runners.SmokeRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 7.821 s <<< FAILURE! - in Runners.SmokeRunner
+Dashboard tab functionality.Dashboard tab verification  Time elapsed: 7.206 s  <<< FAILURE!
+java.lang.AssertionError
+
