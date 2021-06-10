@@ -28,7 +28,7 @@ import org.junit.runner.RunWith;
 
 
             //"@simpletag"  //"@errorvalidation
-            tags = "@dSimple",  //will execute the tags with @regression in Login.feature class/pg
+            tags = "@dSimpletag",  //will execute the tags with @regression in Login.feature class/pg
             //"@smoke or @regression" tags will find/identify anything with either regression or smoke on it
             //"@smoke and @regression" will find the test case with the one mentioning both regression & smoke
             //we can add multiple tags in the runner class to execute scenarios belonging to different tags like: as, and, or
